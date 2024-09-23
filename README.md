@@ -1,0 +1,1 @@
+A Spring Boot API for managing categories and products, supporting CRUD operations with pagination for products. It returns custom responses, including status, messages, and related product or category details Relation between Category-Products should have one-to-many relation
